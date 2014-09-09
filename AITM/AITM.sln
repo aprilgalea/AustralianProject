@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AITM.WinService", "AITM.Win
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AITM.WinService.UI", "AITM.WinService.UI\AITM.WinService.UI.csproj", "{C948D3F4-51FE-4A2D-B3F8-7B3FEDC9AC53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AITM.Data", "AITM.Data\AITM.Data.csproj", "{FD80DBE3-0866-4CF1-A7AA-D89498BA0DF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C948D3F4-51FE-4A2D-B3F8-7B3FEDC9AC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C948D3F4-51FE-4A2D-B3F8-7B3FEDC9AC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C948D3F4-51FE-4A2D-B3F8-7B3FEDC9AC53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD80DBE3-0866-4CF1-A7AA-D89498BA0DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD80DBE3-0866-4CF1-A7AA-D89498BA0DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD80DBE3-0866-4CF1-A7AA-D89498BA0DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD80DBE3-0866-4CF1-A7AA-D89498BA0DF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
