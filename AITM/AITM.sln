@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AITM.WinService", "AITM.WinService\AITM.WinService.csproj", "{2AF91B11-8793-4974-942B-CA5F54D60875}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AITM.WinService.UI", "AITM.WinService.UI\AITM.WinService.UI.csproj", "{C948D3F4-51FE-4A2D-B3F8-7B3FEDC9AC53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2AF91B11-8793-4974-942B-CA5F54D60875}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AF91B11-8793-4974-942B-CA5F54D60875}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AF91B11-8793-4974-942B-CA5F54D60875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C948D3F4-51FE-4A2D-B3F8-7B3FEDC9AC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C948D3F4-51FE-4A2D-B3F8-7B3FEDC9AC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C948D3F4-51FE-4A2D-B3F8-7B3FEDC9AC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C948D3F4-51FE-4A2D-B3F8-7B3FEDC9AC53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
